@@ -67,7 +67,7 @@ Here is my dungoen sketch:
 
 Figure-6 Dungeon sketch:
 
-In this step, there are some challenges with colors of light because in an iMac and on an iOS device are not the same. Also the distance and the height of the orbs need to be tested on the iOS device for serveral times with the Cardboard.
+In this step, there are some challenges with colors of light because on iMac and on an iOS device are not the same. Also the distance and the height of the orbs need to be tested on the iOS device for serveral times with the Cardboard.
 
 First try, a user said the orbs are too close and too low. Then the lighting is not clear enough and did not express any mood.
 
@@ -83,7 +83,7 @@ Figure-8 Inside the dungeon with five orbs floating
 ### Step 5
 
 #### Gameplay design
-There is some problems related to GVR audio. GVR audio needs to be replaced by Resonance to get the audio to work on ios device.
+There is some problems related to GVR audio. GVR audio needs to be replaced by Resonance to get the audio to work on iOS device.
 Here is the [link](https://resonance-audio.github.io/resonance-audio/develop/unity/getting-started) to fix the problem.
 
 Users agrees that the feedback and feedforward are helpful in the gameplay.
@@ -95,8 +95,8 @@ Figure-9 User testing session
 
 ### Conclusion
 
-This is a good experience for the first VR design project. At first, it was very challenging since I have to learn Unity. Then there were some problems with loading the application in ios device.
-However, there are a lot of concepts to learn about the VR design because it needs to test it more frequently. I found that user testing is a very important step to get feedback because sometimes I think my design is perfect but the user doesn't like it.
+This is a good experience for the first VR design project. At first, it was very challenging since I have to learn Unity. Then there were some problems with loading the application into iOS device.
+However, there are a lot of concepts to learn about the VR design because it needs to be tested it more frequently. I found that user testing is a very important step to get feedback because sometimes I think my design is perfect but the user doesn't like it.
 
 ### Next steps
 
