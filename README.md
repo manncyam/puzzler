@@ -4,7 +4,7 @@ Puzzler is an iOS Google Cardboard app in which kids between 4th and 6th grades 
 Here is the final result:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0UEYZqCjmxs
-" target="_blank"><img src="http://img.youtube.com/vi/0UEYZqCjmxs/0.jpg" 
+" target="_blank"><img src="images/youtube.png" 
 alt="Final Interface" width="640" height="480" border="10" /></a>
 
 Please click on the image link above to view the video.
