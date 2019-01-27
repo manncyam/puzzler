@@ -89,7 +89,7 @@ Here is the [link](https://resonance-audio.github.io/resonance-audio/develop/uni
 Users agrees that the feedback and feedforward are helpful in the gameplay.
 
 ### User Testing
-![User Testing](images/tester.JPG =320x)
+![User Testing](images/tester.JPG "User is tesing the game")
 
 Figure-9 User testing session
 
