@@ -85,7 +85,7 @@ Figure-9 Inside the dungeon with five orbs floating
 
 ### Step 5
 
-####Gameplay design
+#### Gameplay design
 There is some problems related to GVR audio. GVR audio needs to be replaced by Resonance to get the audio to work on ios device.
 Here is the [link](https://resonance-audio.github.io/resonance-audio/develop/unity/getting-started) to fix the problem.
 
