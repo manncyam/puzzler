@@ -1,4 +1,4 @@
-# puzzler
+# Puzzler
 Puzzler is an iOS Google Cardboard app in which kids between 4th and 6th grades will solve puzzles by remembering a sequence of flashing five orbs. It was made with Unity.
 
 Here is the final result:
@@ -100,4 +100,4 @@ However, there are a lot of concepts to learn about the VR design because it nee
 
 ### Next steps
 
-In the future, the gameplay needs to be modified, since some users want to stay in the dungeon if they click replay and they want an option to quit the game.  
+In the future, the gameplay needs to be modified, since some users want to stay in the dungeon if they click the Replay and they want an option to quit the game.  
