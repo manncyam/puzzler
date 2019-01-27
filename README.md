@@ -6,19 +6,19 @@ Here is the final result:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0UEYZqCjmxs
 " target="_blank"><img src="http://img.youtube.com/vi/0UEYZqCjmxs/0.jpg" 
 alt="Final Interface" width="240" height="180" border="10" /></a>
+Please click on the link to view the video.
 
-Persona
+### Persona
 
 ![Persona Sketch](images/persona.JPG "My persona sketch for Puzzler")
 
-Design Process
+### Design Process
 Base on [VR-Design_Puzzler](https://github.com/udacity/VR-Design_Puzzler/releases) from Udacity.
 
 ### Step 1 
 Start with a gate because it is the easiest and simplest object that can be tested in VR viewer (google cardboard is used in this project)
 
 ![Picture of a dangeon gate](images/gate.JPG "Dangeon gate in Unity")
-
 Figure-1 Gate is used to test in google cardboard against the real world door.	
 
 After a couple of tries, a reasonable scale values is as shown in figure-2
@@ -31,6 +31,7 @@ Figure-2 Transform value of the gate in Unity
 Design Start and Replay menu. 
 
 Here are some sketches:
+
 ![First sketch of Start and replay menu](images/start_replay_menu1.JPG "First sketch of Start and Replay menus")
 
 Figure-3 First sketch
