@@ -1,5 +1,5 @@
 # puzzler
-Puzzler is an ios google cardboard app in which kids between 4th and 6th grades will solve puzzles by remembering a sequence of flashing five circles. It was made with Unity.
+Puzzler is an iOS Google Cardboard app in which kids between 4th and 6th grades will solve puzzles by remembering a sequence of flashing five orbs. It was made with Unity.
 
 Here is the final result:
 
@@ -17,11 +17,11 @@ Please click on the image link above to view the video.
 Base on [VR-Design_Puzzler](https://github.com/udacity/VR-Design_Puzzler/releases) from Udacity.
 
 ### Step 1 
-Start with a gate because it is the easiest and simplest object that can be tested in VR viewer (google cardboard is used in this project)
+Start with a gate because it is the easiest and simplest object that can be tested in VR viewer (Google Cardboard is used in this project)
 
 ![Picture of a dangeon gate](images/gate.JPG "Dangeon gate in Unity")
 
-Figure-1 Gate is used to test in google cardboard against the real world door.	
+Figure-1 Gate is used to test in Google Cardboard against a real world door.	
 
 After a couple of tries, a reasonable scale values is as shown in figure-2
 
@@ -30,7 +30,7 @@ After a couple of tries, a reasonable scale values is as shown in figure-2
 Figure-2 Transform value of the gate in Unity
 
 ### Step 2 
-Design Start and Replay menu. 
+Design Start and Replay menus. 
 
 Here are some sketches:
 
@@ -50,8 +50,8 @@ Figure-3 is chosen because it looks simple for the first project
 
 ### Step 3
 
-Bring the sketches into Unity
-After testing a couple time with to see the distance, size and color are reasonable with a user tester. Here is the result in Unity.
+#### Design the sketches in Unity
+After testing a couple times with to see the distance, size and color are clear to see, big enough to interact with by comfirming with a user tester. Here is the result in Unity.
 
 ![Start and replay menu in Unity](images/start_replay_menu.JPG "Start and replay menu in Unity")
 
@@ -59,17 +59,17 @@ Figure-5 Start and replay menu in Unity
 
 ### Step 4
 
-Design the building, Orbs, and lighting
+Design the building, Orbs, and lightings
 
 Here is the dungoen sketch
 
 ![Picture of a dungeon sketch](images/dungeon_sketch.JPG "Dungeon sketch on a paper")
 
-Figure-6 Dungeon sketch
+Figure-6 Dungeon sketch:
 
-In this step, there are some challenge with lighting color. Also the distance and the height of the orbs. Therefore, there are more than 5 times to test in the VR viewer.
+In this step, there are some challenges with colors of light because in PC and on iOS device are not the same. Also the distance and the height of the orbs need to be tested on the iOS device for serveral times with the Cardboard.
 
-First try, a user said the orbs are too close and heigh. Then the lighting is not clear enough.
+First try, a user said the orbs are too close and too low. Then the lighting is not clear enough and did not express any mood.
 
 ![Picture of a dungeon gate](images/gate.JPG "Dungeon gate in Unity")
 
