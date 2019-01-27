@@ -5,8 +5,9 @@ Here is the final result:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0UEYZqCjmxs
 " target="_blank"><img src="http://img.youtube.com/vi/0UEYZqCjmxs/0.jpg" 
-alt="Final Interface" width="240" height="180" border="10" /></a>
-Please click on the link to view the video.
+alt="Final Interface" width="640" height="480" border="10" /></a>
+
+Please click on the image link above to view the video.
 
 ### Persona
 
@@ -19,6 +20,7 @@ Base on [VR-Design_Puzzler](https://github.com/udacity/VR-Design_Puzzler/release
 Start with a gate because it is the easiest and simplest object that can be tested in VR viewer (google cardboard is used in this project)
 
 ![Picture of a dangeon gate](images/gate.JPG "Dangeon gate in Unity")
+
 Figure-1 Gate is used to test in google cardboard against the real world door.	
 
 After a couple of tries, a reasonable scale values is as shown in figure-2
@@ -83,9 +85,9 @@ Figure-9 Inside the dungeon with five orbs floating
 
 ### Step 5
 
-Gameplay design
-There is some problem related to GVR audio. Resonance needs to be used to replace GVR audio.
-Here is the link to fix the problem.
+####Gameplay design
+There is some problems related to GVR audio. GVR audio needs to be replaced by Resonance to get the audio to work on ios device.
+Here is the [link](https://resonance-audio.github.io/resonance-audio/develop/unity/getting-started) to fix the problem.
 
 Users agrees that the feedback and feedforward are helpful in the gameplay.
 
@@ -96,9 +98,9 @@ Figure-9 During user testing
 
 ### Conclusion
 
-This is a good experience for the first VR design. At first there a big challeng in using Unity. Then there are some problem with loading the application in ios device.
-Howere, there are a lot to learn about the VR design because it needs to test it more frequently. Otherwise, there will be more time to fix in the later state
+This is a good experience for the first VR design project. At first, it was very challenging since I have to learn Unity. Then there are some problem with loading the application in ios device.
+However, there are a lot of concepts to learn about the VR design because it needs to test it more frequently. I found that user testing is a very important step to get feedback because sometimes I think my design is perfect but the user doesn't like it.
 
 ### Next steps
 
-In the future, the gameplay need to be modified, since some users want to stay in the build if they click replay and they want to an no options. If they choose not to play, bring them outside to the scene around the building.
+In the future, the gameplay need to be modified, since some users want to stay in the build if they click replay and they want to an option to quit the game.  
